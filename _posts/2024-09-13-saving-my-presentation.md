@@ -6,7 +6,7 @@ It started on April 18th 2024, the beginning steps to our cohort project began. 
 
 The STEAM showcase was a presentation held by the Brooklyn STEAM Center, which is a program in partnership with our primary high school, and it allowed all of their students to present the projects made in their classes to very influential organizations and people.
 
-*insert img 1*
+<img src= "/blog/images/steamlogo.png">
 
 This meant that this could be an incredible opportunity for any one of us at the STEAM Center, and we all tried our best to make it that way.
 
@@ -14,13 +14,13 @@ This meant that this could be an incredible opportunity for any one of us at the
 
 We began our project with the idea of making a trading and shopping website. Once we all agreed on the idea we moved on to the name. After almost a full day of arguing over a name we finally settled on Echo Tradez, and we created a color scheme for the sight.
 
-*Img 2*
+<img src= "/blog/images/echotradez.png">
 
 Eventually after the design steps we decided on what pages would need to be made and split the work where each person would complete 2 web pages for the site.
 
 Through the beginning two weeks of work everything moved along very smoothly. We all worked hard and finished on several web pages for the site combined, and I had even completed the 2 pages we agreed I would complete. It seemed like we would be finished in time for the showcase. Until I left for 4 days straight.
 
-*img 3*
+<img src= "/blog/images/code.png">
 
 ## The Downfall
 That moment marked the downfall of our team and after that everything seemed to be falling apart and going into disarray. 
@@ -37,7 +37,7 @@ I knew this would be an incredibly difficult task but I attempted it.
 
 Apparently I had underestimated myself because I managed to complete the pages in two days averaging one page a day. Although it had only taken me two days to complete I was up late in the night those days to complete them.
 
-*img 4*
+<img src= "/blog/images/webpage.png">
 
 Immediately after that though, I noticed that my groupmates still hadn't completed their slides except for one. So I also took on the task of another page to complete over the weekend.
 
