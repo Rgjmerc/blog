@@ -73,4 +73,6 @@ while True:
         print("Too many attempts")
         break
 ```
-It was a bit more difficult solve the issues stated since they were more hidden that the previous code. Dispite this I was still able to find the errors in the code to fix its original function of ask user to enter the correct password but only give them 3 attempts. The errors which needed to be fixed consisted of the actual correct password being “incorrect_password”, the code still looping despite achieving the correct password & the user being given 4 attempts since 3 isn’t > 3. To fix these errors one must change “password == “incorrect_password”” to “password == correct_password”, add a break after the correct password is achieved so the code ends & make attempts >= 3 to stop for too many attempts.
+It was a bit more difficult solve the issues stated since they were more hidden that the previous code. Dispite this I was still able to find the errors in the code to fix its original function of ask user to enter the correct password but only give them 3 attempts. 
+
+The errors which needed to be fixed consisted of the actual correct password being “incorrect_password”, the code still looping despite achieving the correct password & the user being given 4 attempts since 3 isn’t > 3. To fix these errors one must change “password == “incorrect_password”” to “password == correct_password”, add a break after the correct password is achieved so the code ends & make attempts >= 3 to stop for too many attempts.
